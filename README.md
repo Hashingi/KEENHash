@@ -1,5 +1,5 @@
 # KEENHash
-The repository provides the KEENHash-generated program embeddings to the binaries from coreutils which is used in [DeepBinDiff](https://github.com/yueduan/DeepBinDiff).
+The repository provides the KEENHash-generated program embeddings to the binaries from coreutils, diffutils, and findutils which are used in [DeepBinDiff](https://github.com/yueduan/DeepBinDiff).
 
 The directory structure is as follows:
 

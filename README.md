@@ -2,7 +2,7 @@
 ## Typo in Paper
 * On page 1, the sentence "such a matching approach has an unscalable $O(nm^2)$ time complexity ($n$ is the number of binary and $m$ is the number of functions)" should be rectified to "such a matching approach has an unscalable $O(nm^2)$ time complexity ($n$ is the dimension of one function embedding and $m$ is the number of functions to one binary)".
 
-We apologize for this mistake.
+**We apologize for this mistake in the paper.**
 
 ## Description
 The repository provides the KEENHash-generated program embeddings to the binaries from coreutils, diffutils, and findutils which are used in [DeepBinDiff](https://github.com/yueduan/DeepBinDiff).

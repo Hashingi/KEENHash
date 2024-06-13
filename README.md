@@ -2,7 +2,7 @@
 ## Note in Paper
 * $mAP@k$ is a metric that evaluates the mean (across all retrieving results) of the average of the $Precision@k_i$ ($k_i \in \lbrace i | 1 \leq i \leq k \wedge r(i) = 1 \rbrace$ where $r(i) = 1$ represents that the $i_{th}$ retrieved sample is in the same class to the query sample; otherwise, $r(i) = 0$) to one retrieving. The higher the ranking of same-class results returned, the greater the $mAP@k$.
 * $mP@k$ is a metric that calculates the mean of the $Precision@k$ across all retrieving.
-* Where $Precision@k_i$ presents the ratio of retrieved same-class samples to all retrieved $Top-k_i$ ones.
+* Where $Precision@k_i$ presents the ratio of retrieved same-class samples to the retrieved $Top-k_i$ ones.
 * Ref: https://www.educative.io/answers/what-is-the-mean-average-precision-in-information-retrieval
 
 ## Description

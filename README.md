@@ -1,7 +1,4 @@
 # KEENHash
-## Notice
-**The material PDF file, mentioned in the paper (e.g., the selection of hashed length for KEENHash-stru), has already been submitted to the submission website. Please check it over there.**
-
 ## Description
 The repository provides the KEENHash-generated program embeddings to the binaries from coreutils, diffutils, and findutils which are used in our study and [DeepBinDiff](https://github.com/yueduan/DeepBinDiff).
 

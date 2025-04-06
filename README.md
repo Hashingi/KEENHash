@@ -1,4 +1,4 @@
-# KEENHash
+# KEENHash (ISSTA'25)
 ## Description
 The repository provides the KEENHash-generated program embeddings to the binaries from coreutils, diffutils, and findutils which are used in our study and [DeepBinDiff](https://github.com/yueduan/DeepBinDiff).
 

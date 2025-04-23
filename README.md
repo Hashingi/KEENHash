@@ -10,8 +10,10 @@ The directory structure is as follows:
 └── script  # The directory contains the script for evaluating the similarity between binaries
 ```
 
+**Note:** We also provide the long version of the KEENHash paper.
+
 ## Environment
-You can use the following command of conda to install required packages and activate the environment:
+You can use the following command of conda to install the required packages and activate the environment:
 
 ```
 conda env create -f environment.yaml

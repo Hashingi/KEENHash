@@ -1,6 +1,6 @@
 # KEENHash (ISSTA'25)
 ## Description
-The repository provides the KEENHash-generated program embeddings to the binaries from coreutils, diffutils, and findutils which are used in our study and [DeepBinDiff](https://github.com/yueduan/DeepBinDiff).
+The repository provides the KEENHash-generated program embeddings to the binaries from coreutils, diffutils, and findutils which are used in our study and [DeepBinDiff](https://github.com/yueduan/DeepBinDiff). To generate the embeddings for your own binaries, please refer to [BinaryAI](https://www.binaryai.cn). You can log in and create an API key to use the [binaryai-sdk](https://github.com/binaryai/sdk) for the embedding generation.
 
 The directory structure is as follows:
 
